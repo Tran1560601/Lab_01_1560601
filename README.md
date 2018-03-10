@@ -6,16 +6,9 @@
 6. Link facebook cá nhân: https://www.facebook.com/profile.php?id=100004914912146
 7. Thời khóa biểu 15CK3:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| Giờ BĐ - Giờ KT | Tiết |    Thứ 2     |    Thứ 3     | 
-| --------------- |:----:|:------------:|-------------:|
-| --------------- |   1  |              |    sadsa     | 
-| --------------- |   2  |              |    sadsa     |
-| --------------- |   3  |              |    sadsa     |
-| --------------- |:----:|:------------:|-------------:|
-
+| Giờ BĐ - Giờ KT |    Thứ 2       |    Thứ 3       | 
+| --------------- |:--------------:|---------------:|
+|  06:40 - 09:20  |                |TH PTUD CSDL2 N1| 
+|  09:20 - 12:00  |                | TH TKHTMang N4 |
+|  12:30 - 15:10  | TH LT web 2 N1 |                |
+|  15:10 - 17:50  | TH LT web 2 N2 | Lập trình web2 |
