@@ -5,6 +5,13 @@
 5. Sđt: 01643820405
 6. Link facebook cá nhân: https://www.facebook.com/profile.php?id=100004914912146
 7. Thời khóa biểu 15CK3:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 | Giờ BĐ - Giờ KT | Tiết |    Thứ 2     |    Thứ 3     | 
 | --------------- |:----:|:------------:|-------------:|
 | --------------- |   1  |              |    sadsa     | 
